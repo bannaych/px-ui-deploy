@@ -19,5 +19,3 @@ phpinfo();
  - Connect to the URL http://10.x.x.x/test.php
 
 Once you have PHP working with Apache, just point your browser to the URL http://10.x.x.x
-
-
